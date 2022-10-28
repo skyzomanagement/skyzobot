@@ -15,7 +15,7 @@ return `▻►▻►▻►▻►▻►▻►▻►▻►
 │ *•* ${prefix}rules
 │ *•* ${prefix}listpc
 │ *•* ${prefix}listgc
-│ *•* ${prefix}script
+│ *•* ${prefix}naufalgntg
 │ *•* ${prefix}groupwa
 ╰─────────────────
 ▻►▻►▻►▻►▻►▻►▻►▻►
